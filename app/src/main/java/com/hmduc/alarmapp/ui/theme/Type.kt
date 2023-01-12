@@ -8,7 +8,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import com.hmduc.alarmapp.R
 
-val roboto = FontFamily(
+val Roboto = FontFamily(
     Font(R.font.roboto_regular, FontWeight.Normal),
     Font(R.font.roboto_bold, FontWeight.Bold),
     Font(R.font.roboto_black, FontWeight.Black),
